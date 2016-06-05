@@ -1,2 +1,2 @@
 <?php
-echo "Bankwallet welcome message";
+echo "<h1>Bankwallet welcome message</h1>";
